@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<stdlib.h>
+printf()
+//hello this is
+/*This is the code*/
+a=8;
+static
+<<
+!=
+b=1;
+>
+c=6;
+
