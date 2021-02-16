@@ -4,11 +4,11 @@
 ##Compiler Design concepts in C
 
 ###
--Implementation of Lexical Analyser in C
+1.Implementation of Lexical Analyser in C
 
 
--Implementation of Lexical Analyser in Lex tool
+2.Implementation of Lexical Analyser in Lex tool
 
 
--A very simple Implementation of removing Left REcursion from a grammar(only of form A->A(alpha)|(Beta) can be extended for general cases also)
+3.A very simple Implementation of removing Left REcursion from a grammar(only of form A->A(alpha)|(Beta) can be extended for general cases also)
 
